@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+}
+.card{
+    margin: 0 auto;
+    max-width: 450px;
+    background-color:#fff;
+    margin-top:10vh;
+    box-shadow: 0 10px 25px hsl(223, 65%, 78%);
+    border-radius: 15px;
+}
+.card__head{
+    text-align: center;
+    font-weight: 600;
+    color: hsl(223,47%,23%);
+    margin-top: 20px;
+}
+.card__desc{
+    color:hsl(224, 23%, 55%);
+    margin: 0 auto;
+    width:300px;
+    
+
+}
+
